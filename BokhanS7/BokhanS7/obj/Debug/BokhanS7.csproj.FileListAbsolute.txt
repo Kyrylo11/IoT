@@ -1,0 +1,11 @@
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\bin\Debug\BokhanS7.exe.config
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\bin\Debug\BokhanS7.exe
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\bin\Debug\BokhanS7.pdb
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.csproj.AssemblyReference.cache
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.csproj.SuggestedBindingRedirects.cache
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.Form1.resources
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.Properties.Resources.resources
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.csproj.GenerateResource.cache
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.csproj.CoreCompileInputs.cache
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.exe
+C:\Users\thele\source\repos\BokhanS7\BokhanS7\obj\Debug\BokhanS7.pdb
